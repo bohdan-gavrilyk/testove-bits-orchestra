@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+# Solution on FE Test Task(React) 05.2023
 
-To use this template click `Use this template`
+> Here is [the working example](https://bohdan-gavrilyk.github.io/testove-bits-orchestra/)
 
-### Available Scripts
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
